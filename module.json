@@ -1,0 +1,12 @@
+{
+  "disableAutoUpdate": false,
+  "name": "Lobby",
+  "author": "TerableMods",
+  "description": "Returns to the lobby (character selection) using a chat command",
+  "options": {
+    "niceName": "Lobby",
+    "guiName": "Lobby"
+  },
+  "servers": ["https://raw.githubusercontent.com/TerableMods/Lobby/master/"],
+  "supportUrl": "https://github.com/TerableMods/Lobby/issues"
+}

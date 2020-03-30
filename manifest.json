@@ -1,0 +1,10 @@
+{
+	"files": {
+		"README.md": "46d5d26d768d8bdbe62312700c37fbb06bc6abcebb3ca3bf56c8654f8385bd99",
+		"index.js": "de48c310ce30fc582883fadeded297fe948e26b6536c966ad1448ef2732a549d",
+		"module.json": "c6e9474597568e360a2425b4673d40d808bb09c8defa4a836a357f933b068d03"
+	},
+	"defs": {
+		"C_RETURN_TO_LOBBY": 1
+	}
+}
